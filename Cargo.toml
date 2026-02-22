@@ -4,8 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-enigo = "0.2"
-# Simula teclas (Ctrl+S).
 
 tray-icon = "0.18"
 # Coloca um ícone perto do relógio (Linux/Windows) com menu clicável.
