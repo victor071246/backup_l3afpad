@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+toml = "0.8"
+# Leitura de arquivo .toml
 
 tray-icon = "0.18"
 # Coloca um ícone perto do relógio (Linux/Windows) com menu clicável.

@@ -1093,6 +1093,7 @@ dependencies = [
  "serde_json",
  "sysinfo",
  "tokio",
+ "toml",
  "tray-icon",
 ]
 
