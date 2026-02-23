@@ -59,6 +59,8 @@ fn load_config() -> Config {
 fn promp_add_path(config: &mut Config, config_path: &PathBuf) {
     println!("Nenhum arquivo configurado para monitorar.");
     println!("Digite o caminho completo do arquivo ou 'sair' para cancelar:");
+
+    
 }
 
 #[tokio::main]
