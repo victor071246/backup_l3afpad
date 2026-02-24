@@ -41,17 +41,39 @@ fn load_config() -> Config {
     let home = std::env::var("HOME").unwrap_or_default();
     let config_path = PathBuf::from(&home).join(".config/leafguard/config.toml");
 
-    if !config_path.exists() {
-        println!("Nenhum arquivo de configuração encontrando, criando arquivo padrão em ~./config/leafguard/config.toml");
-        let dir = config_path.parent().unwrap();
-        fs::create_dir_all(dir).ok();
-        let default = "watch_paths = [\"/home/v/notas.txt\"]\n";
-        fs::write(&config_path, default).ok();
+    //Cria diretório se não existe
+    if let Some(parent) = config_path.parent() {
+        let _ = fs::create_dir_all(parent);
     }
 
-    let content = fs::read_to_string(&config_path).expect("Erro ao ler config.toml");
+    if !config_path.exists() {
+        println!("Nenhum arquivo de configuração encontrando, criando arquivo padrão em ~./config/leafguard/config.toml");
+        let default_config = Config {
+            watch_paths: vec!["/home/v/notas.txt".to_string()]
+        };
+        let toml_default = r#"watch_paths = ["/home/v/notas.txt]"#;
+        
+        let _ = fs::write(&config_path, toml_default);
+        return default_config;
+    }
 
-    toml::from_str(&content).expect("Erro ao parsear config.toml")
+    //Lê com o fallback
+    match fs::read_to_string(&config_path) {
+        Ok(content) => {
+            match toml::from_str(&content) {
+                Ok(config) => config,
+                Err(_) => {
+                    println!("Config corrompido, usando padrão");
+                    Config { watch_paths: vec![]}
+                }
+            }
+        }
+        Err(_) => {
+            println!("Erro ao ler config, usando padrão");
+            Config { watch_paths: vec![]}
+        }
+    }
+
 
 
 }

@@ -1,0 +1,885 @@
+
+Ir para o conteúdo principal
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+UNIVESP
+
+    Painel
+    Meus cursos
+    Manual do Aluno
+
+4
+
+Contrair
+Geral
+
+    Avisos
+    Live com facilitador
+    Apresentação da disciplina
+    Fórum de dúvidas gerais
+
+Contrair
+Semana 1
+
+    S1 - Nuvem das Coisas – Integração entre Nuvem e loT
+    S1 - Videoaula 01 - Introdução à Computação em Nuvem
+    S1 - Videoaula 02 - Introdução à Internet das Coisas
+    S1 - Material-base
+    S1 - Fórum temático: Nuvem de Coisas – Conectando aplicações IoT via Nuvem
+    S1 - Atividade Avaliativa
+    S1 - Aprofundando o tema
+    S1 - Em síntese
+
+Contrair
+Semana 2
+
+    S2 - Armazenamento e Recuperação de Dados em Nuvem
+    S2 - Videoaula 03 - Armazenamento de Dados
+    S2 - Videoaula 04 - Ferramentas para Armazenamento e Recuperação de Dados
+    S2 - Material-base
+    S2 - Fórum temático: Bases de dados relacionais x Base de dados orientadas a documentos
+    S2 - Atividade Avaliativa
+    S2 - Aprofundando o tema
+    S2 - Em síntese
+
+Contrair
+Semana 3
+
+    S3 - Container Docker para Aplicações em IoT
+    S3 - Videoaula 05 - Introdução ao Docker - Parte 1
+    S3 - Videoaula 06 - Docker no Windows 10
+    S3 - Videoaula 07 - Introdução ao Docker - Parte 2
+    S3 - Videoaula 08 - Aplicações IoT em Containers Docker
+    S3 - Texto-base: Descomplicando o Docker (Leia os capítulos 1 a 4) | Jeferson Fernando Noronha Vitalino e Marcus André Nunes Castro
+    S3 - Material-base
+    S3 - Fórum temático: Utilização de Containers e IoT
+    S3 - Exercícios de apoio
+    S3 - Atividade Avaliativa
+    S3 - Aprofundando o tema
+    S3 - Em síntese
+
+Contrair
+Semana 4
+
+    S4 - Coleta e Análise de Dados para Aplicações em IoT
+    S4 - Videoaula 09 - Coleta de Dados em IoT
+    S4 - Videoaula 10 - Análise de Dados em IoT
+    S4 - Material-base
+    S4 - Fórum temático: Coleta de Dados em IoT – Como realizar?
+    S4 - Aprofundando o tema
+    S4 - Videoaula 11 - Publish/Subscribe
+    S4 - Atividade Avaliativa
+    S4 - Em síntese
+
+Contrair
+Semana 5
+
+Contrair
+Semana 6
+
+Contrair
+Semana 7
+
+Contrair
+Revisão e Orientações
+
+    Plataforma de Ingestão e Análise de Dados - COM420 - Turma 001
+    Semana 3
+    S3 - Atividade Avaliativa
+
+S3 - Atividade Avaliativa
+Situação 	Finalizada
+Iniciado 	domingo, 22 fev. 2026, 20:40
+Concluído 	domingo, 22 fev. 2026, 20:42
+Duração 	1 minuto 34 segundos
+Nota 	8,75 de um máximo de 10,00(87,5%)
+Questão 1
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Analise as afirmativas a seguir sobre diversos comandos utilizados para lidar com containers, depois escolha a alternativa correta. 
+
+I.O comando docker container stats lista processos em execução no container. 
+
+II. O comando docker container rm<id_container> remove uma imagem. 
+
+III.O comando docker container logs -f [container id] mostra logs de forma dinâmica. 
+
+IV. O comando docker create -ti ubuntu cria um container e o executa imediatamente.  
+Questão 1 Resposta
+a.
+
+Apenas II e IV estão corretas.
+b.
+
+Apenas II está correta. 
+c.
+
+Apenas II e III estão corretas. 
+d.
+
+Apenas III está correta.
+e.
+
+Apenas I e II estão corretas. 
+Questão 2
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Diversos são os benefícios da integração de aplicações IoT em containers, como a portabilidade e a atualização das aplicações. Um aspecto fundamental que deve ser observado no uso de containers com IoT que pode facilmente degradar uma solução é: 
+Questão 2 Resposta
+a.
+
+o tamanho da imagem.
+b.
+
+o monitoramento.
+c.
+
+o desempenho.
+d.
+
+a conectividade.
+e.
+
+a segurança. 
+Questão 3
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Uma das características dos containers é que eles são ambientes isolados e descartáveis. O que acontece quando você instala uma aplicação e depois fecha o container? 
+Questão 3 Resposta
+a.
+
+A imagem é salva automaticamente. 
+b.
+
+A instalação persiste por padrão.
+c.
+
+A instalação não persiste se você não salvar a imagem. 
+d.
+
+A imagem é destruída.
+e.
+
+A instalação persiste por um tempo. 
+Questão 4
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O que diferencia uma imagem docker do dockerfileé que: 
+Questão 4 Resposta
+a.
+
+a imagem é o serviço de armazenamento e distribuição baseado em nuvem ou servidor para suas imagens.
+b.
+
+a imagem é o mesmo que um dockerfile.
+c.
+
+a imagem é a base de um container, representando uma aplicação completa. 
+d.
+
+a imagem é a unidade padrão na qual o serviço de aplicativo reside e é executado. 
+e.
+
+a imagem é um repositório.
+Questão 5
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O comando docker container ls -agera como saída: 
+Questão 5 Resposta
+a.
+
+os containers parados e os finalizados. 
+b.
+
+os containers finalizados e os containers em execução. 
+c.
+
+apenas os containers em execução.
+d.
+
+os containers em execução, os containers parados ou que foram finalizados.
+e.
+
+apenas os containers parados. 
+Questão 6
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Quando instalamos aplicações em uma imagem docker em execução, realizamos alterações em arquivos, inicializamos serviços etc., e depois executamos o comando exit para sair da imagem, o resultado será: 
+Questão 6 Resposta
+a.
+
+ter um container em que as alterações são gravadas automaticamente.
+b.
+
+ter um container com as alterações efetivadas.
+c.
+
+ter uma imagem em que as alterações são gravadas automaticamente.
+d.
+
+ter uma imagem com as alterações efetivadas. 
+e.
+
+ter uma imagem com as alterações que não são efetivadas, ou seja, perdidas. 
+Questão 7
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Para o funcionamento do docker no ambiente Windows 64bits, apresentado na videoaula da semana,é necessário durante a finalização do processo de instalação desabilitar um serviço, o qual é chamado de: 
+Questão 7 Resposta
+a.
+
+HyperV.
+b.
+
+VMWAre.
+c.
+
+VirtualBox.
+d.
+
+Xen.
+e.
+
+WSL. 
+Questão 8
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+No universo docker temos vários nomes e definições. Analise as afirmações abaixo e escolha a alternativa correta. 
+
+I. O comando run cria um container dada determinada imagem. 
+
+II. A imagem é responsável por executar o que foi definido no container. 
+
+III. O comando usado para expor uma porta de rede para ele receber algum tipo de tráfego é o expose. 
+
+IV. Docker composeré Docker. 
+Questão 8 Resposta
+a.
+
+Apenas II e III estão corretas. 
+b.
+
+Apenas I e II estão corretas.
+c.
+
+Apenas II e IV estão corretas.
+d.
+
+Apenas I, II e III estão corretas.
+e.
+
+Apenas I e III estão corretas.
+Terminar revisão
+ e 
+Ir para o conteúdo principal
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+UNIVESP
+
+    Painel
+    Meus cursos
+    Manual do Aluno
+
+4
+
+Contrair
+Geral
+
+    Avisos
+    Live com facilitador
+    Apresentação da disciplina
+    Fórum de dúvidas gerais
+
+Contrair
+Semana 1
+
+    S1 - Nuvem das Coisas – Integração entre Nuvem e loT
+    S1 - Videoaula 01 - Introdução à Computação em Nuvem
+    S1 - Videoaula 02 - Introdução à Internet das Coisas
+    S1 - Material-base
+    S1 - Fórum temático: Nuvem de Coisas – Conectando aplicações IoT via Nuvem
+    S1 - Atividade Avaliativa
+    S1 - Aprofundando o tema
+    S1 - Em síntese
+
+Contrair
+Semana 2
+
+    S2 - Armazenamento e Recuperação de Dados em Nuvem
+    S2 - Videoaula 03 - Armazenamento de Dados
+    S2 - Videoaula 04 - Ferramentas para Armazenamento e Recuperação de Dados
+    S2 - Material-base
+    S2 - Fórum temático: Bases de dados relacionais x Base de dados orientadas a documentos
+    S2 - Atividade Avaliativa
+    S2 - Aprofundando o tema
+    S2 - Em síntese
+
+Contrair
+Semana 3
+
+    S3 - Container Docker para Aplicações em IoT
+    S3 - Videoaula 05 - Introdução ao Docker - Parte 1
+    S3 - Videoaula 06 - Docker no Windows 10
+    S3 - Videoaula 07 - Introdução ao Docker - Parte 2
+    S3 - Videoaula 08 - Aplicações IoT em Containers Docker
+    S3 - Texto-base: Descomplicando o Docker (Leia os capítulos 1 a 4) | Jeferson Fernando Noronha Vitalino e Marcus André Nunes Castro
+    S3 - Material-base
+    S3 - Fórum temático: Utilização de Containers e IoT
+    S3 - Exercícios de apoio
+    S3 - Atividade Avaliativa
+    S3 - Aprofundando o tema
+    S3 - Em síntese
+
+Contrair
+Semana 4
+
+    S4 - Coleta e Análise de Dados para Aplicações em IoT
+    S4 - Videoaula 09 - Coleta de Dados em IoT
+    S4 - Videoaula 10 - Análise de Dados em IoT
+    S4 - Material-base
+    S4 - Fórum temático: Coleta de Dados em IoT – Como realizar?
+    S4 - Aprofundando o tema
+    S4 - Videoaula 11 - Publish/Subscribe
+    S4 - Atividade Avaliativa
+    S4 - Em síntese
+
+Contrair
+Semana 5
+
+Contrair
+Semana 6
+
+Contrair
+Semana 7
+
+Contrair
+Revisão e Orientações
+
+    Plataforma de Ingestão e Análise de Dados - COM420 - Turma 001
+    Semana 3
+    S3 - Atividade Avaliativa
+
+S3 - Atividade Avaliativa
+Situação 	Finalizada
+Iniciado 	domingo, 22 fev. 2026, 20:36
+Concluído 	domingo, 22 fev. 2026, 20:39
+Duração 	2 minutos 24 segundos
+Nota 	8,75 de um máximo de 10,00(87,5%)
+Questão 1
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O comando docker container ls -agera como saída: 
+Questão 1 Resposta
+a.
+
+apenas os containers em execução.
+b.
+
+os containers finalizados e os containers em execução. 
+c.
+
+os containers em execução, os containers parados ou que foram finalizados.
+d.
+
+apenas os containers parados. 
+e.
+
+os containers parados e os finalizados. 
+Questão 2
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Analise as afirmativas a seguir sobre diversos comandos utilizados para lidar com containers, depois escolha a alternativa correta. 
+
+I.O comando docker container stats lista processos em execução no container. 
+
+II. O comando docker container rm<id_container> remove uma imagem. 
+
+III.O comando docker container logs -f [container id] mostra logs de forma dinâmica. 
+
+IV. O comando docker create -ti ubuntu cria um container e o executa imediatamente.  
+Questão 2 Resposta
+a.
+
+Apenas II e III estão corretas. 
+b.
+
+Apenas II está correta. 
+c.
+
+Apenas I e II estão corretas. 
+d.
+
+Apenas II e IV estão corretas.
+e.
+
+Apenas III está correta.
+Questão 3
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Uma das características dos containers é que eles são ambientes isolados e descartáveis. O que acontece quando você instala uma aplicação e depois fecha o container? 
+Questão 3 Resposta
+a.
+
+A imagem é salva automaticamente. 
+b.
+
+A instalação não persiste se você não salvar a imagem. 
+c.
+
+A instalação persiste por padrão.
+d.
+
+A imagem é destruída.
+e.
+
+A instalação persiste por um tempo. 
+Questão 4
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Para o funcionamento do docker no ambiente Windows 64bits, apresentado na videoaula da semana,é necessário durante a finalização do processo de instalação desabilitar um serviço, o qual é chamado de: 
+Questão 4 Resposta
+a.
+
+VirtualBox.
+b.
+
+VMWAre.
+c.
+
+WSL. 
+d.
+
+Xen.
+e.
+
+HyperV.
+Questão 5
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+No universo docker temos vários nomes e definições. Analise as afirmações abaixo e escolha a alternativa correta. 
+
+I. O comando run cria um container dada determinada imagem. 
+
+II. A imagem é responsável por executar o que foi definido no container. 
+
+III. O comando usado para expor uma porta de rede para ele receber algum tipo de tráfego é o expose. 
+
+IV. Docker composeré Docker. 
+Questão 5 Resposta
+a.
+
+Apenas I, II e III estão corretas.
+b.
+
+Apenas II e III estão corretas. 
+c.
+
+Apenas I e III estão corretas.
+d.
+
+Apenas II e IV estão corretas.
+e.
+
+Apenas I e II estão corretas.
+Questão 6
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Diversos são os benefícios da integração de aplicações IoT em containers, como a portabilidade e a atualização das aplicações. Um aspecto fundamental que deve ser observado no uso de containers com IoT que pode facilmente degradar uma solução é: 
+Questão 6 Resposta
+a.
+
+o desempenho.
+b.
+
+a conectividade.
+c.
+
+a segurança. 
+d.
+
+o tamanho da imagem.
+e.
+
+o monitoramento.
+Questão 7
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O que diferencia uma imagem docker do dockerfileé que: 
+Questão 7 Resposta
+a.
+
+a imagem é a unidade padrão na qual o serviço de aplicativo reside e é executado. 
+b.
+
+a imagem é o mesmo que um dockerfile.
+c.
+
+a imagem é o serviço de armazenamento e distribuição baseado em nuvem ou servidor para suas imagens.
+d.
+
+a imagem é um repositório.
+e.
+
+a imagem é a base de um container, representando uma aplicação completa. 
+Questão 8
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Quando instalamos aplicações em uma imagem docker em execução, realizamos alterações em arquivos, inicializamos serviços etc., e depois executamos o comando exit para sair da imagem, o resultado será: 
+Questão 8 Resposta
+a.
+
+ter uma imagem com as alterações que não são efetivadas, ou seja, perdidas. 
+b.
+
+ter um container com as alterações efetivadas.
+c.
+
+ter um container em que as alterações são gravadas automaticamente.
+d.
+
+ter uma imagem com as alterações efetivadas. 
+e.
+
+ter uma imagem em que as alterações são gravadas automaticamente.
+Terminar revisão
+ e 
+Ir para o conteúdo principal
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+UNIVESP
+
+    Painel
+    Meus cursos
+    Manual do Aluno
+
+4
+
+Contrair
+Geral
+
+    Avisos
+    Live com facilitador
+    Apresentação da disciplina
+    Fórum de dúvidas gerais
+
+Contrair
+Semana 1
+
+    S1 - Nuvem das Coisas – Integração entre Nuvem e loT
+    S1 - Videoaula 01 - Introdução à Computação em Nuvem
+    S1 - Videoaula 02 - Introdução à Internet das Coisas
+    S1 - Material-base
+    S1 - Fórum temático: Nuvem de Coisas – Conectando aplicações IoT via Nuvem
+    S1 - Atividade Avaliativa
+    S1 - Aprofundando o tema
+    S1 - Em síntese
+
+Contrair
+Semana 2
+
+    S2 - Armazenamento e Recuperação de Dados em Nuvem
+    S2 - Videoaula 03 - Armazenamento de Dados
+    S2 - Videoaula 04 - Ferramentas para Armazenamento e Recuperação de Dados
+    S2 - Material-base
+    S2 - Fórum temático: Bases de dados relacionais x Base de dados orientadas a documentos
+    S2 - Atividade Avaliativa
+    S2 - Aprofundando o tema
+    S2 - Em síntese
+
+Contrair
+Semana 3
+
+    S3 - Container Docker para Aplicações em IoT
+    S3 - Videoaula 05 - Introdução ao Docker - Parte 1
+    S3 - Videoaula 06 - Docker no Windows 10
+    S3 - Videoaula 07 - Introdução ao Docker - Parte 2
+    S3 - Videoaula 08 - Aplicações IoT em Containers Docker
+    S3 - Texto-base: Descomplicando o Docker (Leia os capítulos 1 a 4) | Jeferson Fernando Noronha Vitalino e Marcus André Nunes Castro
+    S3 - Material-base
+    S3 - Fórum temático: Utilização de Containers e IoT
+    S3 - Exercícios de apoio
+    S3 - Atividade Avaliativa
+    S3 - Aprofundando o tema
+    S3 - Em síntese
+
+Contrair
+Semana 4
+
+    S4 - Coleta e Análise de Dados para Aplicações em IoT
+    S4 - Videoaula 09 - Coleta de Dados em IoT
+    S4 - Videoaula 10 - Análise de Dados em IoT
+    S4 - Material-base
+    S4 - Fórum temático: Coleta de Dados em IoT – Como realizar?
+    S4 - Aprofundando o tema
+    S4 - Videoaula 11 - Publish/Subscribe
+    S4 - Atividade Avaliativa
+    S4 - Em síntese
+
+Contrair
+Semana 5
+
+Contrair
+Semana 6
+
+Contrair
+Semana 7
+
+Contrair
+Revisão e Orientações
+
+    Plataforma de Ingestão e Análise de Dados - COM420 - Turma 001
+    Semana 3
+    S3 - Atividade Avaliativa
+
+S3 - Atividade Avaliativa
+Situação 	Finalizada
+Iniciado 	domingo, 22 fev. 2026, 19:53
+Concluído 	domingo, 22 fev. 2026, 20:31
+Duração 	38 minutos 13 segundos
+Nota 	7,50 de um máximo de 10,00(75%)
+Questão 1
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Para o funcionamento do docker no ambiente Windows 64bits, apresentado na videoaula da semana,é necessário durante a finalização do processo de instalação desabilitar um serviço, o qual é chamado de: 
+Questão 1 Resposta
+a.
+
+WSL. 
+b.
+
+VMWAre.
+c.
+
+Xen.
+d.
+
+HyperV.
+e.
+
+VirtualBox.
+Questão 2
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O comando docker container ls -agera como saída: 
+Questão 2 Resposta
+a.
+
+os containers parados e os finalizados. 
+b.
+
+apenas os containers em execução.
+c.
+
+os containers finalizados e os containers em execução. 
+d.
+
+os containers em execução, os containers parados ou que foram finalizados.
+e.
+
+apenas os containers parados. 
+Questão 3
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O que diferencia uma imagem docker do dockerfileé que: 
+Questão 3 Resposta
+a.
+
+a imagem é a base de um container, representando uma aplicação completa. 
+b.
+
+a imagem é o mesmo que um dockerfile.
+c.
+
+a imagem é a unidade padrão na qual o serviço de aplicativo reside e é executado. 
+d.
+
+a imagem é um repositório.
+e.
+
+a imagem é o serviço de armazenamento e distribuição baseado em nuvem ou servidor para suas imagens.
+Questão 4
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+No universo docker temos vários nomes e definições. Analise as afirmações abaixo e escolha a alternativa correta. 
+
+I. O comando run cria um container dada determinada imagem. 
+
+II. A imagem é responsável por executar o que foi definido no container. 
+
+III. O comando usado para expor uma porta de rede para ele receber algum tipo de tráfego é o expose. 
+
+IV. Docker composeré Docker. 
+Questão 4 Resposta
+a.
+
+Apenas II e III estão corretas. 
+b.
+
+Apenas II e IV estão corretas.
+c.
+
+Apenas I e II estão corretas.
+d.
+
+Apenas I e III estão corretas.
+e.
+
+Apenas I, II e III estão corretas.
+Questão 5
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Diversos são os benefícios da integração de aplicações IoT em containers, como a portabilidade e a atualização das aplicações. Um aspecto fundamental que deve ser observado no uso de containers com IoT que pode facilmente degradar uma solução é: 
+Questão 5 Resposta
+a.
+
+a conectividade.
+b.
+
+o tamanho da imagem.
+c.
+
+o desempenho.
+d.
+
+o monitoramento.
+e.
+
+a segurança. 
+Questão 6
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Analise as afirmativas a seguir sobre diversos comandos utilizados para lidar com containers, depois escolha a alternativa correta. 
+
+I.O comando docker container stats lista processos em execução no container. 
+
+II. O comando docker container rm<id_container> remove uma imagem. 
+
+III.O comando docker container logs -f [container id] mostra logs de forma dinâmica. 
+
+IV. O comando docker create -ti ubuntu cria um container e o executa imediatamente.  
+Questão 6 Resposta
+a.
+
+Apenas I e II estão corretas. 
+b.
+
+Apenas II e IV estão corretas.
+c.
+
+Apenas II está correta. 
+d.
+
+Apenas III está correta.
+e.
+
+Apenas II e III estão corretas. 
+Questão 7
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Uma das características dos containers é que eles são ambientes isolados e descartáveis. O que acontece quando você instala uma aplicação e depois fecha o container? 
+Questão 7 Resposta
+a.
+
+A instalação persiste por padrão.
+b.
+
+A imagem é destruída.
+c.
+
+A instalação persiste por um tempo. 
+d.
+
+A imagem é salva automaticamente. 
+e.
+
+A instalação não persiste se você não salvar a imagem. 
+Questão 8
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Quando instalamos aplicações em uma imagem docker em execução, realizamos alterações em arquivos, inicializamos serviços etc., e depois executamos o comando exit para sair da imagem, o resultado será: 
+Questão 8 Resposta
+a.
+
+ter uma imagem em que as alterações são gravadas automaticamente.
+b.
+
+ter uma imagem com as alterações efetivadas. 
+c.
+
+ter uma imagem com as alterações que não são efetivadas, ou seja, perdidas. 
+d.
+
+ter um container com as alterações efetivadas.
+e.
+
+ter um container em que as alterações são gravadas automaticamente.
+Terminar revisão

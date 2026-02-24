@@ -1,0 +1,1052 @@
+
+Ir para o conteúdo principal
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+UNIVESP
+
+    Painel
+    Meus cursos
+    Manual do Aluno
+
+4
+
+Contrair
+Geral
+
+    Avisos
+    Live com facilitador
+    Apresentação da disciplina
+    Fórum de dúvidas gerais
+
+Contrair
+Semana 1
+
+    S1 - Redes de Computadores e a Internet
+    S1 - Videoaula 1 - Introdução às Redes de Computadores
+    S1 - Videoaula 2 - Principais Protocolos de ComunicaçãoVideoaula 2 - Principais Protocolos de Comunicação opções do item
+    S1 - Videoaula 3 - Endereçamento IP
+    S1 - Videoaula 4 - Infraestrutura Computacional
+    S1 - Texto-base - Redes de Computadores e a Internet - 8 ed. (Ler seções 1.1 a 1.1.3 e 1.5) | Kurose e Ross
+    S1 - Texto-base - Redes de Computadores e a Internet – 8 ed. (Ler seções 3.3 a 3.3.1; 3.5 a 3.5.2) | Kurose e Ross
+    S1 - Texto-base - Redes de Computadores e a Internet – 8 ed. (Ler seções 4.3 a 4.3.4) | Kurose e Ross
+    S1 - Material-base
+    S1 - Atividades práticas - Orientações
+    S1 - Aprofundando o tema
+    S1 - Atividade Avaliativa
+    S1 - Fórum temático: Comunicação computacional baseada em camadas
+    S1 - Em síntese
+
+Contrair
+Semana 2
+
+    S2 - Modelagem da Infraestrutura Computacional para Aplicações em Larga Escala
+    S2 - Videoaula 5 - Firewalls e Web Proxies - Parte 1
+    S2 - Videoaula 6 - Firewalls e Web Proxies - Parte 2
+    S2 - Videoaula 7 - Controle de Acesso e Mecanismos de Autenticação
+    S2 - Videoaula 8 - Servidores Web
+    S2 - Texto-base - Redes de Computadores e a Internet - 8 ed. (Ler seção 2.1) | Kurose e Ross
+    S2 - Texto-base - Manual completo do Linux: guia do administrador (Leia o cap. 21, p. 496 a 501, e cap. 22) | Evi Nemeth, Garth Snyder e Trent R. Hein
+    S2 - Texto-base - Dominando Linux: Red Hat e Fedora (Ler o capítulo 16, páginas 369 a 379) | Bill Ball e Hoyt Duff
+    S2 - Atividades práticas - Orientações
+    S2 - Aprofundando o tema
+    S2 - Atividade Avaliativa
+    S2 - Fórum temático: Navegador WWW
+    S2 - Em síntese
+
+Contrair
+Semana 3
+
+    S3 - Computação em Nuvem
+    S3 - Videoaula 9 - Computação em Nuvem – Contextualização e Definições
+    S3 - Videoaula 10 - Modelos de Serviços em Computação em Nuvem
+    S3 - Videoaula 11 - Middlewares para IaaS
+    Texto-base - Computação em Nuvem (Leia os capítulos 1 e 2) | Armando Kolbe Junior
+    S3 - Atividades práticas - Orientações
+    S3 - Aprofundando o tema
+    S3 - Atividade Avaliativa
+    S3 - Fórum temático: Computação em Nuvem
+    S3 - Em síntese
+
+Contrair
+Semana 4
+
+    S4 - Virtualização
+    S4 - Videoaula 12 - Virtualização – Contexto e Conceitos
+    S4 - Videoaula 13 - Tipos de Virtualização
+    S4 - Videoaula 14 - Exemplos de Virtualizadores e Ferramentas de Gerenciamento
+    S4 - Texto-base - Desmistificando a Computação em Nuvem | Alexandre Carissimi
+    S4 - Texto-base - Aprimorando a elasticidade de aplicações de banco de dados utilizando virtualização em nível de sistema operacional (Leia as páginas 29 -37 e 45-46) | Israel Campos de Oliveira
+    S4 - Atividades Práticas - Orientações
+    S4 - Aprofundando o tema
+    S4 - Atividade Avaliativa
+    S4 - Fórum temático
+    S4 - Em síntese
+
+Contrair
+Semana 5
+
+Contrair
+Semana 6
+
+Contrair
+Semana 7
+
+Contrair
+Revisão e Orientações
+
+    Infraestrutura para Sistemas de Software - COM310 - Turma 003
+    Semana 3
+    S3 - Atividade Avaliativa
+
+S3 - Atividade Avaliativa
+Situação 	Finalizada
+Iniciado 	domingo, 22 fev. 2026, 20:49
+Concluído 	domingo, 22 fev. 2026, 21:31
+Duração 	42 minutos 2 segundos
+Nota 	6,25 de um máximo de 10,00(62,5%)
+Questão 1
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+Com relação a diagramação o NIST, que de fato apresenta o conceito adequado de Cloud, usa uma visualização de quatro pilhas de software para descrever as diferenças entre os modelos de infraestrutura, plataforma e software "como serviço”.
+
+Com relação a diagramação, observe as afirmativas a seguir:
+
+I. IaaS: temos controle total sobre toda a pilha.
+II. Privado: tem a hospedagem gerenciada terceirizada.
+III. IaaS: funciona como um serviço de aluguel de carro.
+
+Está correto o que se afirma em:
+Questão 1 Resposta
+A.
+II e III, apenas.
+B.
+II, apenas.
+C.
+I e III, apenas.
+D.
+I, II e III.
+E.
+III, apenas.
+Questão 2
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Dentre os diversos protocolos da camada de aplicação usados na rede mundial de computadores, é correto afirmar que:
+
+I. Na camada de aplicação do modelo TCP/IP, temos somente o protocolo UDP.
+
+II. O HTTP é um protocolo de aplicação da web, junto ao DNS, que é um protocolo de aplicação do modelo TCP/IP usado para resolver nomes.
+
+III. DNS e HTTP são protocolos localizados na camada de aplicação do modelo TCP/IP.
+
+IV. IP e TCP são protocolos de aplicação.
+
+V. TCP e UDP estão localizados na camada de rede do modelo TCP/IP.
+Questão 2 Resposta
+a.
+
+Apenas I, III e IV estão corretas.
+b.
+
+Apenas II e III estão corretas.
+c.
+
+Apenas II e IV estão corretas.
+d.
+
+Apenas I e V estão corretas.
+e.
+
+Apenas II está correta.
+Questão 3
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+São três os principais tipos de computação em nuvem, cada um com suas características e soluções.
+
+Considerando os principais tipos de computação em nuvem, correlacione os termos a seguir aos seus principais conceitos.
+
+1 – SAAS.
+
+2 – PAAS.
+
+3 – IAAS.
+
+
+I – Middlewares e sistemas operacionais, em conjunto com a infraestrutura de comunicação.
+
+II – De forma transparente, o software/aplicação que o usuário utiliza ou deseja implantar faz uso dos sistemas operacionais virtualizados e de toda a infraestrutura de comunicação e processamento.
+
+III – Provisão em geral de rede de comunicação e hardware para processamento e armazenamento de dados.
+
+Agora, assinale a alternativa que apresenta a sequência correta.
+
+
+Questão 3 Resposta
+a.
+
+1-I; 2-III; 3-II.
+b.
+
+1-II; 2-I; 3-III.
+
+
+c.
+
+1-III; 2-I; 3-II.
+
+
+d.
+
+1-I; 2-II; 3-III.
+
+
+e.
+
+1-III; 2-II; 3-I.
+Questão 4
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Acerca das diferenças entre o modelo ISO/OSI e o modelo/arquitetura TCP/IP, assinale a alternativa correta:
+Questão 4 Resposta
+a.
+
+O modelo TCP/IP é o modelo de referência e o modelo ISO/OSI é o que é usado na internet.
+b.
+
+O modelo ISO/OSI só funciona em redes locais.
+c.
+
+O modelo TCP/IP possui 7 camadas com as mesmas funcionalidades do modelo ISO/OSI.
+d.
+
+O modelo TCP/IP possui 4 camadas e é o padrão de fato da internet.
+e.
+
+O modelo OSI/ISO engloba em uma única camada as camadas de aplicação, apresentação e sessão do modelo TCP/IP.
+Questão 5
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Para cada modelo de serviço na nuvem, foram pensadas funcionalidades capazes de atender a diferentes cenários e necessidades do negócio no contexto de tecnologia. Determinada organização, por exemplo, pode optar por mover completamente sua infraestrutura para a nuvem. É possível que esta organização mova as instâncias virtuais e todos os serviços suportados pelo data center.
+
+Assinale a alternativa que representa corretamente qual modelo de serviço oferece a solução demandada pela organização exemplificada.
+Questão 5 Resposta
+a.
+
+ IaaS — Infrastructure as a Service.
+b.
+
+ PaaS — Plataform as a Service.
+c.
+
+NaaS — Network as a Service.
+d.
+
+ MaaS — Monitoring as a Service.
+e.
+
+SaaS — Software as a Service.
+Questão 6
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Existem várias ferramentas em código aberto (open source) voltadas ao oferecimento de serviços em nuvem.  Uma delas é o OpenStack que consiste num middleware construído em projeto iniciado em 2010, pela Rackspace. Sua arquitetura viabiliza a criação de infraestrutura como serviço e possui como características importantes ser simples de implementar e altamente escalável. Ele é formado por componentes, apresentando uma arquitetura modular.
+
+Em relação aos componentes do OpenStack, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.
+
+I. (  )  O componente Horizon fornece autenticação e autorização para todos os serviços OpenStack.
+
+II. (  ) O componente Nova fornece máquinas virtuais (VMs) sob demanda. Já o componente Neutron fornece conectividade de rede como serviço entre dispositivos de interface gerenciados por serviços OpenStack.
+
+III. (  ) O componente Glance fornece APIs com compatibilidade e confiáveis. Já o componente  Swift  gerencia a criação de instâncias em execução nos hipervisores.
+Questão 6 Resposta
+a.
+
+F; F; V.
+b.
+
+ V; V; F.
+c.
+
+V; F; F.
+d.
+
+F; V; F.
+e.
+
+V; V; V.
+Questão 7
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Os modelos de  implementação de computação em nuvem influenciam diretamente na forma como o gerenciamento é conduzido e nas responsabilidades atribuídas à organização contratante e ao provedor de nuvem.
+
+Avalie as afirmações a seguir sobre os três modelos de computação em nuvem, e relacione adequadamente  tais modelos às afirmações que os descrevem.
+
+1 – Nuvem híbrida.
+
+2 – Nuvem privada.
+
+3 – Nuvem pública.
+
+I – A organização gerencia seus recursos computacionais e pode optar por manter o data center num modelo gerenciado em sua infraestrutura interna ou hospedada por terceiros. Os responsável pelo oferecimento dos serviços, bem como, seus usuários pertencem à mesma organização.
+
+II – A organização tipicamente terceiriza atividades não críticas, contratando provedores externos de serviços de computação em nuvens. Os serviços mais críticos são mantidos em nuvem privada. 
+
+III – O provedor se responsabiliza por manter, proteger e configurar os recursos, mas compartilha o ambiente entre múltiplos usuários em ambiente independente.
+
+Assinale a alternativa que correlaciona adequadamente os dois grupos de informação:
+Questão 7 Resposta
+a.
+
+1, III; 2, I; 3, II.
+b.
+
+ 1, II; 2, I; 3, III.
+c.
+
+ 1, I; 2, II; 3, III.
+d.
+
+ 1, I; 2, III; 3, II.
+e.
+
+ 1, III; 2, II; 3, I.
+Questão 8
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O middlewareé o software situado entre o SO e as aplicações nele executadas. Ele permite a comunicação e o gerenciamento de dados para aplicações distribuídas e, também, que os usuários executem solicitações como enviar formulários em um navegador da web ou que o servidor web exiba páginas dinâmicas da web baseadas no perfil de um usuário específico.
+
+Com relação ao papel do middleware, avalie as afirmativas a seguir.
+
+    Pode ser utilizado para processamento dividido e paralelo com ações que ocorrem em tempo real, permitindo melhor desempenho das aplicações.
+
+    Atualmente, com a utilização do middleware, as integrações entre API e ambientes foram otimizadas.
+
+    Para a criação de aplicações modernas e atuais, os desenvolvedores necessitam de um ecossistema de aplicações com recursos fundamentais unidos. O middlewareé esse elemento-chave para montar tal ambiente.
+
+    Pode ser utilizado para otimizar aplicativos, melhorando seu desempenho e portabilidade.
+
+Está correto o que se afirma em:
+
+Questão 8 Resposta
+a.
+
+I e II, apenas.
+
+b.
+
+ I, III e IV, apenas.
+
+c.
+
+I, II, III e IV.
+
+d.
+
+ I e III, apenas.
+
+e.
+
+ II, apenas.
+
+Terminar revisão
+
+
+
+Ir para o conteúdo principal
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+UNIVESP
+
+    Painel
+    Meus cursos
+    Manual do Aluno
+
+4
+
+Contrair
+Geral
+
+    Avisos
+    Live com facilitador
+    Apresentação da disciplina
+    Fórum de dúvidas gerais
+
+Contrair
+Semana 1
+
+    S1 - Redes de Computadores e a Internet
+    S1 - Videoaula 1 - Introdução às Redes de Computadores
+    S1 - Videoaula 2 - Principais Protocolos de ComunicaçãoVideoaula 2 - Principais Protocolos de Comunicação opções do item
+    S1 - Videoaula 3 - Endereçamento IP
+    S1 - Videoaula 4 - Infraestrutura Computacional
+    S1 - Texto-base - Redes de Computadores e a Internet - 8 ed. (Ler seções 1.1 a 1.1.3 e 1.5) | Kurose e Ross
+    S1 - Texto-base - Redes de Computadores e a Internet – 8 ed. (Ler seções 3.3 a 3.3.1; 3.5 a 3.5.2) | Kurose e Ross
+    S1 - Texto-base - Redes de Computadores e a Internet – 8 ed. (Ler seções 4.3 a 4.3.4) | Kurose e Ross
+    S1 - Material-base
+    S1 - Atividades práticas - Orientações
+    S1 - Aprofundando o tema
+    S1 - Atividade Avaliativa
+    S1 - Fórum temático: Comunicação computacional baseada em camadas
+    S1 - Em síntese
+
+Contrair
+Semana 2
+
+    S2 - Modelagem da Infraestrutura Computacional para Aplicações em Larga Escala
+    S2 - Videoaula 5 - Firewalls e Web Proxies - Parte 1
+    S2 - Videoaula 6 - Firewalls e Web Proxies - Parte 2
+    S2 - Videoaula 7 - Controle de Acesso e Mecanismos de Autenticação
+    S2 - Videoaula 8 - Servidores Web
+    S2 - Texto-base - Redes de Computadores e a Internet - 8 ed. (Ler seção 2.1) | Kurose e Ross
+    S2 - Texto-base - Manual completo do Linux: guia do administrador (Leia o cap. 21, p. 496 a 501, e cap. 22) | Evi Nemeth, Garth Snyder e Trent R. Hein
+    S2 - Texto-base - Dominando Linux: Red Hat e Fedora (Ler o capítulo 16, páginas 369 a 379) | Bill Ball e Hoyt Duff
+    S2 - Atividades práticas - Orientações
+    S2 - Aprofundando o tema
+    S2 - Atividade Avaliativa
+    S2 - Fórum temático: Navegador WWW
+    S2 - Em síntese
+
+Contrair
+Semana 3
+
+    S3 - Computação em Nuvem
+    S3 - Videoaula 9 - Computação em Nuvem – Contextualização e Definições
+    S3 - Videoaula 10 - Modelos de Serviços em Computação em Nuvem
+    S3 - Videoaula 11 - Middlewares para IaaS
+    Texto-base - Computação em Nuvem (Leia os capítulos 1 e 2) | Armando Kolbe Junior
+    S3 - Atividades práticas - Orientações
+    S3 - Aprofundando o tema
+    S3 - Atividade Avaliativa
+    S3 - Fórum temático: Computação em Nuvem
+    S3 - Em síntese
+
+Contrair
+Semana 4
+
+    S4 - Virtualização
+    S4 - Videoaula 12 - Virtualização – Contexto e Conceitos
+    S4 - Videoaula 13 - Tipos de Virtualização
+    S4 - Videoaula 14 - Exemplos de Virtualizadores e Ferramentas de Gerenciamento
+    S4 - Texto-base - Desmistificando a Computação em Nuvem | Alexandre Carissimi
+    S4 - Texto-base - Aprimorando a elasticidade de aplicações de banco de dados utilizando virtualização em nível de sistema operacional (Leia as páginas 29 -37 e 45-46) | Israel Campos de Oliveira
+    S4 - Atividades Práticas - Orientações
+    S4 - Aprofundando o tema
+    S4 - Atividade Avaliativa
+    S4 - Fórum temático
+    S4 - Em síntese
+
+Contrair
+Semana 5
+
+Contrair
+Semana 6
+
+Contrair
+Semana 7
+
+Contrair
+Revisão e Orientações
+
+    Infraestrutura para Sistemas de Software - COM310 - Turma 003
+    Semana 3
+    S3 - Atividade Avaliativa
+
+S3 - Atividade Avaliativa
+Situação 	Finalizada
+Iniciado 	domingo, 22 fev. 2026, 21:33
+Concluído 	domingo, 22 fev. 2026, 21:48
+Duração 	14 minutos 48 segundos
+Nota 	8,75 de um máximo de 10,00(87,5%)
+Questão 1
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Os ______ têm como objetivo garantir para a organização a qualidade e a diminuição de riscos pertinentes à adoção de novas tecnologias mediante a terceirização. Assinale a alternativa que preenche corretamente a lacuna:
+Questão 1 Resposta
+a.
+
+servidores
+b.
+
+ambientes virtualizados
+c.
+
+softwares como serviços
+d.
+
+data centers
+e.
+
+SLAs
+Questão 2
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O acordo de nível de serviço, mais conhecido por sua sigla em inglês (SLA, Service Level Agreement), tem por objetivo garantir às empresas qualidade e diminuição dos riscos pertinentes à adoção de novas tecnologias.
+
+Considerando as características do SLA, julgue se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.
+
+    (  ) O SLA é um contrato que representa o nível de serviço que uma empresa oferece a outra, com relação à garantia do atendimento às suas necessidades.
+
+    (  ) O SLA é um documento que estabelece a missão da empresa, bem como seus objetivos relacionados à terceirização.
+
+    (  ) O SLA também pode ser considerado uma forma de melhorar o relacionamento entre o contratante e o prestador do serviço.
+
+    (  ) Um exemplo de cláusula SLA pode determinar que a manutenção relacionada à  entrega de determinado serviço esteja sempre disponível no padrão 24 x 7 x 365.
+
+Agora, assinale a alternativa que apresenta a sequência CORRETA.
+
+Questão 2 Resposta
+a.
+
+F - F - F - V.
+
+b.
+
+F - V - V - V .
+
+c.
+
+V - V - F - F.
+d.
+
+ V - V - V - V.
+
+e.
+
+V - F - V - V.
+Questão 3
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O início e o desligamento de serviços em distribuições Linux é feito por meio de scripts presentes no diretório /etc/rc.d/init.d., incluindo  servidor Web Apache. Nesse contexto, o comando usado para inicializar o Apache é:
+Questão 3 Resposta
+a.
+
+/etc/rc.d/init.d/httpd condstart
+b.
+
+/etc/rc.d/init.d/httpd status
+c.
+
+/etc/rc.d/init.d/httpd on
+d.
+
+/etc/rc.d/init.d/httpd load
+e.
+
+/etc/rc.d/init.d/httpd start
+Questão 4
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+A computação em nuvem é para o cliente como um ambiente em que ele solicita recursos computacionais como serviço e é atendido mediante pagamento pelo uso. O cliente é parte integrante de toda uma cadeia complexa de elementos que envolvem custos para manutenção de hardware, software etc. Sobre esse assunto, assinale a alternativa correta:
+Questão 4 Resposta
+a.
+
+A computação em nuvem não é uma tecnologia inovadora, pois o oferecimento de serviços computacionais eficientes já existia antes do advento de Cloud.
+b.
+
+Há sempre um grande envolvimento da terceirização e da computação em nuvem com a alta tecnologia.
+c.
+
+O volume de dados gerado pela sociedade contemporânea é tal que necessita de grandes ambientes computacionais com recursos capazes de processar, armazenar e publicar dados para melhorar o ambiente de negócios e de praticamente todos os setores da economia.
+d.
+
+Computação em nuvem é terceirização.
+e.
+
+Na terceirização, toda infraestrutura é movimentada, também para prestar serviços não mais de forma pontual, como é comum na computação em nuvem.
+Questão 5
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Considere o arquivo httpd.conf e suas diretivas de configuração que são usadas para ajustar o funcionamento do servidor Web Apache. Analise as afirmações abaixo e escolha a alternativa correta.
+
+ 
+
+I. As configurações em tempo de execução são armazenadas no arquivo httpd.conf. Este arquivo pode ser usado para controlar o comportamento-padrão do servidor Web Apache.
+
+II. Todas as diretivas apresentadas no arquivo apenas configuram um valor.
+
+III. A diretiva ServerRoot indica o caminho relativo para o diretório raiz do servidor, ou seja, em que local encontrar todos os recursos (arquivos, pastas etc.).
+
+IV. A diretiva Listen indica em qual porta deve ser executado o servidor. O padrão da porta é 8080.
+Questão 5 Resposta
+a.
+
+Apenas I está correta.
+b.
+
+Apenas I e II estão corretas.
+c.
+
+Apenas III e IV estão corretas.
+d.
+
+Apenas IV está correta.
+e.
+
+Apenas III está correta.
+Questão 6
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+A escolha do modelo de implementação de serviços em nuvem depende principalmente do nível de privacidade e compartilhamento que uma organização procura nas plataformas de nuvem, assim como da necessidade de gerenciamento exigida por cada um deles. Imagine que a organização A resolva fechar parceria com a organização B do mesmo grupo e ramo de negócios e que, anteriormente, ela possuía uma implementação de nuvem privada e, na fusão, decidiu transformá-la num modelo de implementação comunitária.
+
+Em relação à principal mudança, assinale a alternativa CORRETA.
+Questão 6 Resposta
+a.
+
+Capacidade de armazenamento reduzida pelo fato de o modelo segmentar a rede.
+b.
+
+Exclusividade de recursos, já que o modelo é ainda mais restrito do que a nuvem privada.
+c.
+
+ Divisão dos custos, ou seja, da responsabilidade financeira, entre as organizações do grupo.
+d.
+
+Gerenciamento facilitado, ficando a cargo do provedor de nuvem que faz a vinculação e administra os recursos.
+e.
+
+Maior privacidade e autonomia em relação aos dados armazenados.
+Questão 7
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+A atividade de busca do melhor fornecedor para um SLA com maior garantiaé denominada benchmark. Ao realizar-se tal atividade é comum tratar-se de itens ou palavras-chaves específicas.
+
+Assinale a alternativa que apresenta somente tais palavras-chaves.
+Questão 7 Resposta
+a.
+
+Gerenciamento de nível de serviço e Disponibilidade.
+b.
+
+Atualidade e Relevância.
+
+c.
+
+Oportunidade e Comparabilidade.
+
+d.
+
+Gerenciamento de nível de serviço e Representatividade.
+
+e.
+
+Disponibilidade e Relevância.
+
+Questão 8
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Usando-se a computação em nuvem, uma classe de soluções é a 'Infraestrutura como Serviço' (IaaS, do inglês Infrastructure as a Service)
+
+Acerca da IaaS, assinale a alternativa que apresente sua definição de forma mais completa.
+
+Questão 8 Resposta
+a.
+
+A Iaas é formada por servidores físicos, que são compartilhados por diferentes clientes, permitindo que mais recursos sejam alocados de forma dinâmica. Entre seus serviços,  destaca-se o acesso a aplicativos, como o Salesforce, por exemplo.
+b.
+
+A IaaS é composta por hardware e software, utilizando-se de ferramentas tecnológicas modernas e oferecendo acesso a softwares aplicativos via web.
+c.
+
+A IaaS  costuma ser formada por uma  rede de comunicação, hardware e software de sistema para processamento e armazenamento de dados. São oferecidos tipicamente como serviços:  uma infraestrutura de TI automatizada e escalonável de armazenamento de dados, hospedagem, redes de seus próprios servidores globais, cobrando-se apenas pelo que o usuário consome.
+d.
+
+A IaaS compreende servidores físicos e virtualizados. Entre seus serviços, destaca-se a hospedagem de sites em seus servidores. 
+e.
+
+A IaaS tem escalabilidade e compreende apenas servidores físicos e virtuais, bem como a conectividade para a troca de mensagens entre esses servidores. Entre seus serviços, destaca-se a hospedagem de sites em seus servidores. 
+Terminar revisão
+
+
+Ir para o conteúdo principal
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+UNIVESP
+
+    Painel
+    Meus cursos
+    Manual do Aluno
+
+4
+
+Contrair
+Geral
+
+    Avisos
+    Live com facilitador
+    Apresentação da disciplina
+    Fórum de dúvidas gerais
+
+Contrair
+Semana 1
+
+    S1 - Redes de Computadores e a Internet
+    S1 - Videoaula 1 - Introdução às Redes de Computadores
+    S1 - Videoaula 2 - Principais Protocolos de ComunicaçãoVideoaula 2 - Principais Protocolos de Comunicação opções do item
+    S1 - Videoaula 3 - Endereçamento IP
+    S1 - Videoaula 4 - Infraestrutura Computacional
+    S1 - Texto-base - Redes de Computadores e a Internet - 8 ed. (Ler seções 1.1 a 1.1.3 e 1.5) | Kurose e Ross
+    S1 - Texto-base - Redes de Computadores e a Internet – 8 ed. (Ler seções 3.3 a 3.3.1; 3.5 a 3.5.2) | Kurose e Ross
+    S1 - Texto-base - Redes de Computadores e a Internet – 8 ed. (Ler seções 4.3 a 4.3.4) | Kurose e Ross
+    S1 - Material-base
+    S1 - Atividades práticas - Orientações
+    S1 - Aprofundando o tema
+    S1 - Atividade Avaliativa
+    S1 - Fórum temático: Comunicação computacional baseada em camadas
+    S1 - Em síntese
+
+Contrair
+Semana 2
+
+    S2 - Modelagem da Infraestrutura Computacional para Aplicações em Larga Escala
+    S2 - Videoaula 5 - Firewalls e Web Proxies - Parte 1
+    S2 - Videoaula 6 - Firewalls e Web Proxies - Parte 2
+    S2 - Videoaula 7 - Controle de Acesso e Mecanismos de Autenticação
+    S2 - Videoaula 8 - Servidores Web
+    S2 - Texto-base - Redes de Computadores e a Internet - 8 ed. (Ler seção 2.1) | Kurose e Ross
+    S2 - Texto-base - Manual completo do Linux: guia do administrador (Leia o cap. 21, p. 496 a 501, e cap. 22) | Evi Nemeth, Garth Snyder e Trent R. Hein
+    S2 - Texto-base - Dominando Linux: Red Hat e Fedora (Ler o capítulo 16, páginas 369 a 379) | Bill Ball e Hoyt Duff
+    S2 - Atividades práticas - Orientações
+    S2 - Aprofundando o tema
+    S2 - Atividade Avaliativa
+    S2 - Fórum temático: Navegador WWW
+    S2 - Em síntese
+
+Contrair
+Semana 3
+
+    S3 - Computação em Nuvem
+    S3 - Videoaula 9 - Computação em Nuvem – Contextualização e Definições
+    S3 - Videoaula 10 - Modelos de Serviços em Computação em Nuvem
+    S3 - Videoaula 11 - Middlewares para IaaS
+    Texto-base - Computação em Nuvem (Leia os capítulos 1 e 2) | Armando Kolbe Junior
+    S3 - Atividades práticas - Orientações
+    S3 - Aprofundando o tema
+    S3 - Atividade Avaliativa
+    S3 - Fórum temático: Computação em Nuvem
+    S3 - Em síntese
+
+Contrair
+Semana 4
+
+    S4 - Virtualização
+    S4 - Videoaula 12 - Virtualização – Contexto e Conceitos
+    S4 - Videoaula 13 - Tipos de Virtualização
+    S4 - Videoaula 14 - Exemplos de Virtualizadores e Ferramentas de Gerenciamento
+    S4 - Texto-base - Desmistificando a Computação em Nuvem | Alexandre Carissimi
+    S4 - Texto-base - Aprimorando a elasticidade de aplicações de banco de dados utilizando virtualização em nível de sistema operacional (Leia as páginas 29 -37 e 45-46) | Israel Campos de Oliveira
+    S4 - Atividades Práticas - Orientações
+    S4 - Aprofundando o tema
+    S4 - Atividade Avaliativa
+    S4 - Fórum temático
+    S4 - Em síntese
+
+Contrair
+Semana 5
+
+Contrair
+Semana 6
+
+Contrair
+Semana 7
+
+Contrair
+Revisão e Orientações
+
+    Infraestrutura para Sistemas de Software - COM310 - Turma 003
+    Semana 3
+    S3 - Atividade Avaliativa
+
+S3 - Atividade Avaliativa
+Situação 	Finalizada
+Iniciado 	domingo, 22 fev. 2026, 21:48
+Concluído 	domingo, 22 fev. 2026, 21:58
+Duração 	9 minutos 24 segundos
+Nota 	8,75 de um máximo de 10,00(87,5%)
+Questão 1
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Nos principais congressos de Computação em Nuvem, a ______ é apresentada com destaque, considerando que a emergência da criação de novos aplicativos e serviços de ____ venha a ser arrolada como um dos elementos importantes para a evolução da ______. Assinale a alternativa que preenche corretamente as lacunas:
+Questão 1 Resposta
+a.
+
+Computação em Nuvem, IoT, Computação em Nuvem.
+b.
+
+IoT, IoT, Computação em Nuvem.
+c.
+
+Computação em Nuvem, Computação em Nuvem, IoT.
+d.
+
+IoT, Computação em Nuvem, IoT.
+e.
+
+IoT, Computação em Nuvem, Computação em Nuvem.
+Questão 2
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O Apache é um servidor de código aberto e que alimenta um grande percentual de todos os sites hospedados na internet. O seu nome oficial é Apache HTTP Server, sendo mantido pela Apache Software Foundation. O protocolo de aplicação da pilha TCP/IP com o qual o Apache intermedia requisições e respostas com os clientes web é o:
+Questão 2 Resposta
+a.
+
+DNS
+b.
+
+TCP
+c.
+
+HTTP
+d.
+
+PHP
+e.
+
+HTML5
+Questão 3
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+A computação em nuvem é uma tecnologia que utiliza a ____________ e ____________ remotos interligados por meio de uma estrutura de comunicação para armazenar dados e hospedar aplicações acessíveis por protocolos e pelo padrão da WWW (World Wide Web).
+
+Preencha as lacunas assinalando a alternativa CORRETA.
+
+
+Questão 3 Resposta
+a.
+
+ Tecnologia e acessos.
+
+
+b.
+
+ Internet e protocolos.
+
+
+c.
+
+Internet e servidores.
+
+
+d.
+
+Segurança e protocolos.
+
+
+e.
+
+Tecnologia e servidores.
+
+
+Questão 4
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+As nuvens, no geral, podem ser governamentais ou particulares, públicas, privadas ou híbridas, compartilhadas ou dedicadas, locais ou globais.
+
+Sobre o tema, analise as asserções a seguir e a relação proposta entre elas.
+
+    As nuvens podem ser governamentais, criadas e mantidas pelo poder público em diversas instâncias, ou particulares, criadas e mantidas por empresas do mercado corporativo.
+
+PORQUE
+
+    A segurança de acesso dos usuários, a conectividade com os data centers e a garantia da disponibilidade dos servidores são aspectos a serem considerados nas infraestruturas.
+
+Com base na análise das asserções, conclui-se que:
+
+Questão 4 Resposta
+a.
+
+ ambas as asserções são falsas.
+
+b.
+
+as duas asserções são verdadeiras, mas a segunda não justifica corretamente a primeira;
+
+c.
+
+a primeira asserção é falsa, e a segunda asserção é verdadeira;
+
+d.
+
+as duas asserções são verdadeiras, e a segunda justifica corretamente a primeira;
+
+e.
+
+a primeira asserção é verdadeira, e a segunda asserção é falsa;
+
+Questão 5
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Os modelos de serviços oferecidos na nuvem para armazenamento, infraestrutura e virtualização de aplicações tornaram-se populares, principalmente pela sua disponibilização nas plataformas de grandes empresas de tecnologia, como Google, Microsoft e Amazon. Esses modelos disponibilizam a nuvem como uma infraestrutura, uma plataforma ou um software para o cliente final.
+
+Quais são os principais modelos de computação em nuvem? Assinale a alternativa CORRETA.
+
+
+Questão 5 Resposta
+a.
+
+ POP, IMAP, HTTPS.
+
+
+b.
+
+SAAS, PAAS, IAAS.
+
+
+c.
+
+SMTP, SSH, HTTP.
+
+
+d.
+
+LAN, WAN, VLAN.
+e.
+
+VPN, LAN e WAN.
+
+
+Questão 6
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+Acerca da definição de um protocolo no contexto de redes de comunicação, é correto afirmar que:
+Questão 6 Resposta
+a.
+
+um protocolo de rede não é semelhante a um protocolo humano.
+b.
+
+a internet é uma rede que não faz uso de muitos protocolos de comunicação, mas apenas aqueles relacionados à aplicação.
+c.
+
+são mais importantes os protocolos de rede que os protocolos da camada de aplicação.
+d.
+
+um protocolo define a ordem e o formato das mensagens trocadas entre duas entidades que se comunicam.
+e.
+
+nem todas as redes são baseadas em protocolos.
+Questão 7
+Completo
+Atingiu 1,25 de 1,25
+Marcar questão
+Texto da questão
+
+O oferecimento de serviços de computação em nuvens conta com servidores remotos, o que implica a aquisição de  infraestrutura de comunicação e de processamento pelo provedor.  Dessa forma,  a organização que contrata tais serviços costuma ter como um de seus benefícios, a economia de recursos, ficando isenta de investir em bens de capital e de arcar com custos de manutenção de infraestrutura.
+
+Em relação a outros possíveis benefícios geralmente trazidos aos contratantes, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.
+
+I. (  ) A contratação de serviços de computação em nuvens permite que o controle da carga de trabalho seja realizado em tempo real e que o pagamento seja realizado com base nos recursos alocados.
+
+II. (  ) A contratação de serviços de computação em nuvens  propõe o uso de recursos e componentes para segurança, desempenho e monitoramento da nuvem, além de garantir a disponibilidade e o uso de serviços sob demanda.
+
+III. (  ) Os  serviços de computação em nuvens fazem  uso de virtualização, assim sendo é facilitado o acesso dos contratantes a tais serviços, por meio de diferentes dispositivos e sistemas operacionais.
+
+Assinale a alternativa que apresenta a sequência CORRETA.
+Questão 7 Resposta
+a.
+
+ F; V; V.
+b.
+
+ V; V; V.
+c.
+
+V; F; F
+d.
+
+V; V; F.
+e.
+
+ F; F; V.
+Questão 8
+Completo
+Atingiu 0,00 de 1,25
+Marcar questão
+Texto da questão
+
+Existem várias ferramentas em código aberto (open source) voltadas ao oferecimento de serviços em nuvem.  Uma delas é o OpenStack que consiste num middleware construído em projeto iniciado em 2010, pela Rackspace. Sua arquitetura viabiliza a criação de infraestrutura como serviço e possui como características importantes ser simples de implementar e altamente escalável. Ele é formado por componentes, apresentando uma arquitetura modular.
+
+Em relação aos componentes do OpenStack, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.
+
+I. (  )  O componente Horizon fornece autenticação e autorização para todos os serviços OpenStack.
+
+II. (  ) O componente Nova fornece máquinas virtuais (VMs) sob demanda. Já o componente Neutron fornece conectividade de rede como serviço entre dispositivos de interface gerenciados por serviços OpenStack.
+
+III. (  ) O componente Glance fornece APIs com compatibilidade e confiáveis. Já o componente  Swift  gerencia a criação de instâncias em execução nos hipervisores.
+Questão 8 Resposta
+a.
+
+V; V; V.
+b.
+
+V; F; F.
+c.
+
+F; V; F.
+d.
+
+F; F; V.
+e.
+
+ V; V; F.
+Terminar revisão
+
