@@ -1,4 +1,4 @@
-use std::time::Duration;
+use std::{path::Path, time::Duration};
 use tokio::time;
 use sysinfo::System;
 use std::process::Command;
@@ -35,6 +35,17 @@ fn get_backup_dir() -> PathBuf {
     let dir = PathBuf::from(home).join(".leafguard-backups");
     fs::create_dir_all(&dir).ok();
     dir
+}
+
+fn ensure_ydotool_is_running() {
+    if !ins_process_running("ydotoold") {
+        println!("Iniciando ydotoold...");
+        let status = Command::new("ydotoold").status().expect("Falha ao iniciar ydotoold");
+
+        if !status.success() {
+            println!("ydotoold falhou. Instale usando: sudo pacman -S ydotool");
+        }
+    }
 }
 
 fn load_config() -> Config {
@@ -78,16 +89,62 @@ fn load_config() -> Config {
 
 }
 
-fn promp_add_path(config: &mut Config, config_path: &PathBuf) {
+fn promp_add_path(config_path: &PathBuf) -> Config {
     println!("Nenhum arquivo configurado para monitorar.");
     println!("Digite o caminho completo do arquivo ou 'sair' para cancelar:");
 
-    
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).unwrap();
+    let path = input.trim();
+
+    if path == "sair" {
+        return Config { watch_paths: vec![] };
+    }
+
+    let mut config = load_config(); // Reusa a que já temos
+    config.watch_paths.push(path.to_string());
+
+    // Salva no disco
+    let toml_content = toml::to_string(&config).unwrap();
+    fs::write(config_path, toml_content).unwrap();
+
+    println!("Adicionado: {}", path);
+    config
+}
+
+fn backup_file(source_path: &str) {
+    let backup_dir = get_backup_dir();
+    let timestamp = Local::now().format("%Y%m%d_%H%M%S").to_string();
+    let filename = PathBuf::from(source_path).file_name().unwrap_or_default().to_str().unwrap_or("backup").to_string();
+
+    let backup_path = backup_dir.join(format!("{}_{}", filename, timestamp));
+
+    if let Err(e) = fs::copy(source_path, &backup_path) {
+        println!("Erro backup {}: {}", source_path, e);
+    } else {
+        println!("Backup salvo: {}", backup_path.display());
+    }
 }
 
 #[tokio::main]
 async fn main() {
     println!("Leafguard iniciando...");
+
+    //Ydotool
+    ensure_ydotool_is_running();
+
+
+    // Config
+    let home = std::env::var("HOME").expect("HOME não encontrada");
+    let config_path = PathBuf::from(home).join(".config/leafguard/config.toml");
+    let mut config = load_config();
+
+    // Menu se vazio
+    if config.watch_paths.is_empty() {
+        config = promp_add_path (&config_path);
+    }
+
+    println!("Monitorando: {:?}", config.watch_paths);
 
     let mut interval = time::interval(Duration::from_secs(5 * 60));
 
